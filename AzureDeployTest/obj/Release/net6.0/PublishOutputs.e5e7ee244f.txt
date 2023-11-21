@@ -1,0 +1,7 @@
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\AzureDeployTest.exe
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\AzureDeployTest.dll
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\AzureDeployTest.deps.json
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\AzureDeployTest.runtimeconfig.json
+C:\Users\nshoa\Documents\Projects\AzureDeployTest\AzureDeployTest\obj\Release\net6.0\PubTmp\Out\AzureDeployTest.pdb
